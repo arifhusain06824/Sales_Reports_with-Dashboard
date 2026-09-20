@@ -39,7 +39,7 @@ To analyze sales performance, identify top-performing products, regions, and sal
 - **Tablet & Laptop** are the top-selling products
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](images/Sales_dashboard.jpg)
+![Sales Dashboard](Sales_Dashboard.jpg)
 
 ## 📂 Project Structure
 - `Sales Reports.xlsx` — Main Excel file with all sheets
